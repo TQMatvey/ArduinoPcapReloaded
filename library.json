@@ -1,0 +1,20 @@
+{
+    "name": "ArduinoPcap",
+    "keywords": "arduino, pcap, serial, esp32",
+    "description": "A library for creating and sending .pcap files for Wireshark and other programms",
+    "authors":
+	{
+		"name": "TQMatvey",
+		"maintainer": true
+	},
+	"repository":
+    {
+        "type": "git",
+        "url": "http://github.com/TQMatvey/ArduinoPcapReloaded.git"
+    },
+    "version": "1.0",
+    "frameworks": "arduino",
+    "dependencies":
+	{
+	}
+}
